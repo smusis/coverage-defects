@@ -1,0 +1,10 @@
+api/src/main/java/org/jboss/marshalling/Marshalling.java
+####
+api/src/main/java/org/jboss/marshalling/OutputStreamByteOutput.java
+api/src/main/java/org/jboss/marshalling/OutputStreamByteOutput.java
+####
+api/src/main/java/org/jboss/marshalling/cloner/SerializingCloner.java
+api/src/test/java/org/jboss/marshalling/cloner/DateFieldType.java
+api/src/test/java/org/jboss/marshalling/cloner/SerializingClonerTestCase.java
+####
+####

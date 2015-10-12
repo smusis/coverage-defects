@@ -1,0 +1,14 @@
+src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java
+src/test/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntryTest.java
+####
+src/changes/changes.xml
+src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java
+src/test/java/org/apache/commons/compress/archivers/ArchiveStreamFactoryTest.java
+src/test/resources/testAIFF.aif
+src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java
+src/main/java/org/apache/commons/compress/archivers/tar/TarConstants.java
+src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java
+src/test/java/org/apache/commons/compress/archivers/tar/TarArchiveEntryTest.java
+src/test/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStreamTest.java
+src/test/java/org/apache/commons/compress/archivers/tar/TarUtilsTest.java
+####

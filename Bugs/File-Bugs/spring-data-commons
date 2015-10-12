@@ -1,0 +1,6 @@
+spring-data-commons-core/pom.xml
+spring-data-commons-parent/pom.xml
+####
+spring-data-commons-core/src/test/java/org/springframework/data/repository/query/parser/PartTreeUnitTests.java
+####
+####

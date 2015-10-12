@@ -1,0 +1,8 @@
+core/servicemix-core/src/main/java/org/apache/servicemix/jbi/framework/AutoDeploymentService.java
+core/servicemix-core/src/main/java/org/apache/servicemix/jbi/framework/EndpointRegistry.java
+core/servicemix-core/src/main/java/org/apache/servicemix/jbi/framework/Registry.java
+####
+distributions/apache-servicemix/src/main/release/conf/jndi.xml
+####
+####
+####

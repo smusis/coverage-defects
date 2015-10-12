@@ -1,0 +1,15 @@
+bom/pom.xml
+pom.xml
+####
+container/impl-base/src/main/java/org/jboss/arquillian/container/impl/ThreadContext.java
+container/test-impl-base/src/main/java/org/jboss/arquillian/container/test/impl/client/deployment/ThreadContext.java
+core/impl-base/src/main/java/org/jboss/arquillian/core/impl/ManagerImpl.java
+core/impl-base/src/test/java/org/jboss/arquillian/core/impl/context/ContextActivationTestCase.java
+core/spi/src/main/java/org/jboss/arquillian/core/spi/context/AbstractContext.java
+junit/core/src/main/java/org/jboss/arquillian/junit/State.java
+protocols/jmx/src/main/java/org/jboss/arquillian/protocol/jmx/JMXTestRunner.java
+protocols/servlet/src/main/java/org/jboss/arquillian/protocol/servlet/runner/ServletTestRunner.java
+testng/core/src/main/java/org/jboss/arquillian/testng/Arquillian.java
+####
+protocols/servlet/src/main/java/org/jboss/arquillian/protocol/servlet/ServletUtil.java
+####

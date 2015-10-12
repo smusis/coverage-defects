@@ -1,0 +1,8 @@
+indexer-core/src/main/java/org/apache/maven/index/context/DefaultIndexingContext.java
+indexer-core/src/main/java/org/apache/maven/index/DefaultNexusIndexer.java
+indexer-core/src/main/java/org/apache/maven/index/NexusIndexer.java
+####
+indexer-core/src/main/java/org/apache/maven/index/DefaultIteratorResultSet.java
+####
+indexer-core/src/main/java/org/apache/maven/index/context/DefaultIndexingContext.java
+####

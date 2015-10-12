@@ -1,0 +1,12 @@
+####
+xwiki-commons-core/xwiki-commons-extension/xwiki-commons-extension-repositories/xwiki-commons-extension-repository-aether/src/main/java/org/xwiki/extension/repository/aether/internal/AetherExtensionRepositoryFactory.java
+xwiki-commons-core/xwiki-commons-extension/xwiki-commons-extension-repositories/xwiki-commons-extension-repository-aether/src/test/java/org/xwiki/extension/repository/aether/internal/AetherDefaultRepositoryManagerTest.java
+xwiki-commons-core/xwiki-commons-extension/xwiki-commons-extension-repositories/xwiki-commons-extension-repository-aether/src/test/resources/repository/maven/sgroupid/sartifactid/maven-metadata.xml
+xwiki-commons-core/xwiki-commons-extension/xwiki-commons-extension-repositories/xwiki-commons-extension-repository-aether/src/test/resources/repository/maven/sgroupid/sartifactid/version/sartifactid-version.pom
+xwiki-commons-core/xwiki-commons-extension/xwiki-commons-extension-repositories/xwiki-commons-extension-repository-aether/src/test/resources/repository/maven/sgroupid/sartifactid/version/sartifactid-version.type
+xwiki-commons-core/xwiki-commons-extension/xwiki-commons-extension-repositories/xwiki-commons-extension-repository-aether/src/test/resources/repository/maven/sgroupid/sartifactid/version/sartifactid-version-classifier.type
+####
+xwiki-commons-core/xwiki-commons-extension/xwiki-commons-extension-repositories/xwiki-commons-extension-repository-aether/src/test/java/org/xwiki/extension/repository/aether/internal/AetherDefaultRepositoryManagerTest.java
+xwiki-commons-core/xwiki-commons-extension/xwiki-commons-extension-repositories/xwiki-commons-extension-repository-aether/src/main/java/org/xwiki/extension/repository/aether/internal/AetherExtensionFile.java
+xwiki-commons-core/xwiki-commons-extension/xwiki-commons-extension-repositories/xwiki-commons-extension-repository-aether/src/main/java/org/xwiki/extension/repository/aether/internal/AetherExtensionFile.java
+####

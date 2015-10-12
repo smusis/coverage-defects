@@ -1,0 +1,16 @@
+src/changes/changes.xml
+src/main/java/org/apache/commons/net/smtp/SMTP.java
+src/main/java/org/apache/commons/net/smtp/SMTPSClient.java
+####
+src/changes/changes.xml
+src/main/java/org/apache/commons/net/tftp/TFTPClient.java
+####
+####
+src/changes/changes.xml
+src/main/java/org/apache/commons/net/ftp/FTPClient.java
+####
+####
+####
+src/changes/changes.xml
+src/main/java/org/apache/commons/net/tftp/TFTPClient.java
+####

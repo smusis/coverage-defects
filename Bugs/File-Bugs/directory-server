@@ -1,0 +1,13 @@
+####
+####
+kerberos-test/src/test/java/org/apache/directory/server/kerberos/kdc/AbstractKerberosITest.java
+kerberos-test/src/test/java/org/apache/directory/server/kerberos/kdc/KerberosTcpITest.java
+kerberos-test/src/test/java/org/apache/directory/server/kerberos/kdc/KerberosUdpITest.java
+protocol-kerberos/src/main/java/org/apache/directory/server/kerberos/kdc/ticketgrant/TicketGrantingService.java
+####
+kerberos-codec/src/test/java/org/apache/directory/shared/kerberos/codec/PaDataDecoderTest.java
+kerberos-codec/src/main/java/org/apache/directory/shared/kerberos/codec/padata/actions/PaDataInit.java
+kerberos-codec/src/main/java/org/apache/directory/shared/kerberos/codec/padata/actions/StorePaDataValue.java
+####
+core/src/main/java/org/apache/directory/server/core/partition/DefaultPartitionNexus.java
+####
