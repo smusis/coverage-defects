@@ -1,6 +1,6 @@
 # coverage-defects
 
-This dataset is related to our ICSE-SEIP submission. Details of folders/files:
+This dataset is related to our IEEE Transactions on Reliability submission. Details of folders/files:
 
 Projects - Contains names of all the projects.
 
