@@ -1,0 +1,101 @@
+key,name,LOC,cyclomatic_complexity,test_cases,coverage,bugsCount,developers
+commons-io:commons-io,Commons IO,7897,2409,744,84.1,8,28
+org.springframework.roo:org.springframework.roo.root,Spring Roo,66572,15072,434,0.6,48,26
+org.springframework.security.oauth:spring-security-oauth-parent,OAuth for Spring Security,13613,2720,355,54.8,16,26
+org.jboss:jboss-ejb-client,JBoss EJB client,6749,1859,31,25.2,0,5
+org.overlord.sramp:s-ramp,S-RAMP,8282,1428,31,43.2,1,5
+org.springframework.data:spring-data-mongodb-dist,Spring Data MongoDB Distribution,8656,1988,555,52.8,12,15
+org.springframework.data:spring-data-neo4j-dist,Spring Data Neo4j Distribution,12061,3107,436,62.9,9,26
+org.jboss.jsfunit:jboss-jsfunit,JSFUnit,8808,1760,243,35.3,3,8
+org.springframework.batch:org.springframework.batch,Spring Batch,19615,3933,1878,89.2,48,10
+org.apache.maven.surefire:surefire,SureFire,8825,1649,213,37.6,20,26
+org.gatein.common:common-parent,GateIn - Common,9721,2119,442,1.9,0,7
+org.jboss.arquillian:arquillian-parent,Arquillian Aggregator,15909,2867,324,50.2,3,25
+org.jboss.byteman:byteman-root,byteman-root,27231,6390,3,1.4,7,6
+org.jboss.as:jboss-as-parent,JBoss Application Server: Parent Aggregator,161907,34024,630,11.6,150,67
+org.jboss.forge:forge-parent,Forge - Parent,43068,7911,567,34.6,14,36
+org.springframework.data:spring-data-commons-dist,Spring Data Commons Distribution,5821,1363,272,65.5,3,15
+org.exoplatform.portal:exo.portal.parent,GateIn - Portal,106861,18745,984,33,28,45
+org.jboss.errai:errai-parent,Errai,50341,10693,301,19.5,39,13
+org.gatein.wsrp:wsrp-parent,GateIn WSRP,46964,8299,503,24.8,0,10
+org.hornetq:hornetq-pom,HornetQ Parent,126313,23327,164,8.4,9,52
+org.hibernate:hibernate-search-parent,Hibernate Search Aggregator,29424,6050,6,80,9,22
+org.hibernate:hibernate-validator-parent,Hibernate Validator Aggregator,16273,3575,281,76.7,13,14
+org.jboss.marshalling:jboss-marshalling-parent,JBoss Marshalling Parent,14489,4501,1433,6.7,4,6
+org.apache.gora:gora,Apache Gora,9506,2457,154,35.6,19,11
+org.drools.planner:drools-planner,Drools Planner multiproject,36873,6667,135,20.7,0,33
+org.drools:guvnor,Guvnor multiproject,124997,23374,935,17.1,10,71
+org.jboss.portletbridge:portletbridge-parent,"JBoss JSF2 Portlet Bridge for a portlet environment, parent pom",12924,2818,31,6.2,13,3
+org.jboss.teiid:teiid-parent,Teiid,173331,42662,7203,59.4,31,14
+org.jboss.weld:weld-core-build-aggregator,Weld Build Aggregator,35979,6791,962,9.4,36,48
+org.agorava:agorava-parent,Agorava Parent Project,13222,2507,18,1.6,3,2
+org.apache.axis2:axis2,Apache Axis2 - Root,207696,50335,2,0.1,52,76
+org.apache.struts:struts2-parent,Struts 2,103742,25935,1849,33.5,18,30
+org.apache.directory.server:apacheds-parent,ApacheDS,109511,18538,2179,33.7,5,26
+org.apache.pdfbox:pdfbox-reactor,PDFBox reactor,64202,10795,37,21.4,45,10
+org.apache.myfaces.core:myfaces-core-project,Apache MyFaces JSF-2.1 Core Project,82791,16871,1054,39.5,13,38
+org.apache.cxf:cxf,Apache CXF,230519,53951,5282,42.9,53,41
+org.apache.commons:commons-math3,Commons Math,62520,13717,3513,87,85,26
+org.apache.chemistry.opencmis:chemistry-opencmis,Apache Chemistry OpenCMIS,59365,13891,484,15,31,14
+org.apache.jackrabbit:jackrabbit,Apache Jackrabbit,228335,54772,6336,5.3,14,31
+org.apache.maven.scm:maven-scm,Maven SCM,41945,6768,587,31,13,23
+org.apache.rave:rave-project,Apache Rave :: rave-project,13728,2350,956,63.8,6,17
+org.apache.maven.doxia:doxia,Doxia,29324,5478,652,76.6,8,21
+org.apache.nutch:nutch,Apache Nutch,14834,3294,81,8,23,18
+org.apache.karaf:karaf,Apache Karaf,39355,9355,291,14.4,63,24
+org.apache.archiva:archiva,Archiva,37263,6112,1166,57.3,9,23
+org.apache.mahout:mahout,Apache Mahout,73676,14447,1262,51.9,71,17
+org.apache.commons:commons-lang3,Commons Lang,18997,7198,2114,93.1,18,34
+org.apache.any23:apache-any23,Apache Any23,16515,3906,506,76.4,28,8
+org.apache.bval:bval-parent,Apache BVal :: bval-parent (Parent POM),11234,2738,229,61.1,2,11
+org.apache.empire-db:empire-db-parent,Apache Empire-db,39235,9607,105,12.4,2,6
+org.apache.ftpserver:ftpserver-parent,Apache FtpServer Parent,12670,2472,664,67.1,7,12
+org.apache.camel:camel,Camel,181714,38856,9390,65.4,116,34
+commons-net:commons-net,Commons Net,17344,3566,153,23.4,7,22
+org.apache.jackrabbit:jackrabbit-oak,Jackrabbit Oak,45740,11669,525,51.7,27,10
+org.apache.continuum:continuum,Continuum :: Project,60051,9723,246,16,5,24
+org.apache.james:apache-mime4j-project,Apache JAMES Mime4j Project,11049,2819,714,72,12,10
+org.apache.james:apache-james-mailbox,Apache James Mailbox,18877,4399,269,24.7,17,8
+org.apache.bookkeeper:bookkeeper,bookkeeper,21127,4923,532,21.5,59,3
+org.apache.maven:maven,Apache Maven 3.x,52994,9482,493,16.3,97,35
+org.apache.wicket:wicket-parent,Wicket Parent,131730,24318,1802,49.6,46,39
+org.apache.wink:wink,Apache Wink,52856,12659,1353,54.2,4,13
+org.apache.vysper:vysper-parent,Apache Vysper Parent,23981,5310,492,59.3,22,7
+org.apache.tiles:tiles-parent,Tiles 2,16264,3225,477,42.8,12,14
+org.apache.tika:tika,Apache Tika,26577,6120,443,65.8,38,14
+org.apache.syncope:syncope-root,Apache Syncope Root,38795,6321,5,1.5,7,13
+org.apache.shiro:shiro-root,Apache Shiro,18638,4670,299,46.1,32,10
+org.apache.shindig:shindig-project,Apache Shindig Project,37213,8022,1852,70.7,34,30
+org.apache.santuario:xmlsec,Apache XML Security for Java,24542,6415,454,56.9,4,15
+org.apache.tapestry:tapestry-project,Tapestry 5 Project,65998,11481,815,44.4,100,13
+org.apache.servicemix:servicemix,ServiceMix,37384,8011,229,36.8,4,5
+org.apache.openwebbeans:openwebbeans,Apache OpenWebBeans,40888,7916,364,44.3,41,10
+org.apache.myfaces.extensions.cdi:myfaces-extcdi-parent,Apache MyFaces CODI,21493,3915,103,19.2,1,4
+org.apache.mina:mina-parent,Apache MINA,36383,8413,236,39.3,8,20
+org.apache.maven.wagon:wagon,Apache Maven Wagon,14023,2492,671,30.2,10,22
+org.apache.ode:ode,ODE,66067,15860,174,30,18,17
+org.apache.maven.indexer:maven-indexer,Maven :: Indexer,11594,1954,228,74.3,3,8
+org.apache.maven.archetype:maven-archetype,Maven Archetype,13412,2102,43,42.2,14,19
+com.browseengine.bobo:bobo-project,Bobo,23492,5353,71,41.9,0,32
+org.asteriskjava:asterisk-java,Asterisk-Java,26372,3435,213,24,14,4
+org.qi4j:qi4j-core,Qi4j Core (Build POM),31573,5403,227,45.1,8,18
+org.jasig.cas:cas-server,Jasig Central Authentication Service,12958,2479,553,47.6,12,16
+org.apache.openjpa:openjpa-parent,OpenJPA Parent POM,179428,55940,3076,7.3,126,22
+org.apache.httpcomponents:httpcomponents-client,HttpComponents Client,24036,5949,1702,65.1,0,9
+org.apache.commons:commons-compress,Commons Compress,11978,3028,283,74.7,2,18
+org.apache.james:james-server,Apache JAMES Server,31879,6968,173,19.2,12,22
+org.apache.james:apache-james-imap,Apache James IMAP,11911,2726,333,35.7,9,7
+org.apache.portals.pluto:pluto,Apache Pluto,23369,4225,45,9.2,55,24
+org.apache.qpid:proton-project,proton-project,24180,4793,182,1.2,36,12
+org.apache.servicemix.specs:specs,Apache ServiceMix :: Specs,12970,3369,4,0.9,4,8
+org.apache.synapse:Apache-Synapse,Apache Synapse,57469,12551,2276,30.5,24,25
+org.apache.incubator:chukwa,Apache Chukwa,28356,5156,130,23.4,41,11
+org.apache.xbean:xbean,Apache XBean,14674,4260,220,51.8,6,16
+org.twitter4j:twitter4j,twitter4j,25583,6754,176,22.2,6,66
+org.xwiki.rendering:xwiki-rendering,XWiki Rendering - Parent POM,37285,6644,1262,43.6,6,9
+org.apache.openejb:openejb,Apache OpenEJB,237938,55742,7127,6.7,33,28
+org.xwiki.commons:xwiki-commons,XWiki Commons - Parent POM,20622,3945,303,39.5,3,23
+org.overlord.bam:parent,Overlord BAM,5804,1102,84,41.4,0,2
+org.apache.cxf.dosgi:cxf-dosgi-ri,Distributed OSGI Reference Implementation,7887,1691,162,48.2,8,5
+org.jboss.arquillian.graphene:graphene-parent,Graphene: Parent,5344,1019,29,7.9,1,6
+org.apache.whirr:whirr,Whirr,7214,1118,108,49.8,0,10
